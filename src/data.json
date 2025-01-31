@@ -1,0 +1,196 @@
+{
+    "countries": [
+        {
+            "name": "United States",
+            "flag": "🇺🇸",
+            "flag_url": "https://flagcdn.com/w320/us.png",
+            "phone_code": "+1"
+        },
+        {
+            "name": "United Kingdom",
+            "flag": "🇬🇧",
+            "flag_url": "https://flagcdn.com/w320/gb.png",
+            "phone_code": "+44"
+        },
+        {
+            "name": "Germany",
+            "flag": "🇩🇪",
+            "flag_url": "https://flagcdn.com/w320/de.png",
+            "phone_code": "+49"
+        },
+        {
+            "name": "France",
+            "flag": "🇫🇷",
+            "flag_url": "https://flagcdn.com/w320/fr.png",
+            "phone_code": "+33"
+        },
+        {
+            "name": "Italy",
+            "flag": "🇮🇹",
+            "flag_url": "https://flagcdn.com/w320/it.png",
+            "phone_code": "+39"
+        },
+        {
+            "name": "Spain",
+            "flag": "🇪🇸",
+            "flag_url": "https://flagcdn.com/w320/es.png",
+            "phone_code": "+34"
+        },
+        {
+            "name": "Russia",
+            "flag": "🇷🇺",
+            "flag_url": "https://flagcdn.com/w320/ru.png",
+            "phone_code": "+7"
+        },
+        {
+            "name": "China",
+            "flag": "🇨🇳",
+            "flag_url": "https://flagcdn.com/w320/cn.png",
+            "phone_code": "+86"
+        },
+        {
+            "name": "India",
+            "flag": "🇮🇳",
+            "flag_url": "https://flagcdn.com/w320/in.png",
+            "phone_code": "+91"
+        },
+        {
+            "name": "Uzbekistan",
+            "flag": "🇺🇿",
+            "flag_url": "https://flagcdn.com/w320/uz.png",
+            "phone_code": "+998"
+        },
+        {
+            "name": "Canada",
+            "flag": "🇨🇦",
+            "flag_url": "https://flagcdn.com/w320/ca.png",
+            "phone_code": "+1"
+        },
+        {
+            "name": "Brazil",
+            "flag": "🇧🇷",
+            "flag_url": "https://flagcdn.com/w320/br.png",
+            "phone_code": "+55"
+        },
+        {
+            "name": "Japan",
+            "flag": "🇯🇵",
+            "flag_url": "https://flagcdn.com/w320/jp.png",
+            "phone_code": "+81"
+        },
+        {
+            "name": "Australia",
+            "flag": "🇦🇺",
+            "flag_url": "https://flagcdn.com/w320/au.png",
+            "phone_code": "+61"
+        },
+        {
+            "name": "Mexico",
+            "flag": "🇲🇽",
+            "flag_url": "https://flagcdn.com/w320/mx.png",
+            "phone_code": "+52"
+        },
+        {
+            "name": "Argentina",
+            "flag": "🇦🇷",
+            "flag_url": "https://flagcdn.com/w320/ar.png",
+            "phone_code": "+54"
+        },
+        {
+            "name": "South Korea",
+            "flag": "🇰🇷",
+            "flag_url": "https://flagcdn.com/w320/kr.png",
+            "phone_code": "+82"
+        },
+        {
+            "name": "Turkey",
+            "flag": "🇹🇷",
+            "flag_url": "https://flagcdn.com/w320/tr.png",
+            "phone_code": "+90"
+        },
+        {
+            "name": "Egypt",
+            "flag": "🇪🇬",
+            "flag_url": "https://flagcdn.com/w320/eg.png",
+            "phone_code": "+20"
+        },
+        {
+            "name": "South Africa",
+            "flag": "🇿🇦",
+            "flag_url": "https://flagcdn.com/w320/za.png",
+            "phone_code": "+27"
+        },
+        {
+            "name": "Saudi Arabia",
+            "flag": "🇸🇦",
+            "flag_url": "https://flagcdn.com/w320/sa.png",
+            "phone_code": "+966"
+        },
+        {
+            "name": "Indonesia",
+            "flag": "🇮🇩",
+            "flag_url": "https://flagcdn.com/w320/id.png",
+            "phone_code": "+62"
+        },
+        {
+            "name": "Thailand",
+            "flag": "🇹🇭",
+            "flag_url": "https://flagcdn.com/w320/th.png",
+            "phone_code": "+66"
+        },
+        {
+            "name": "Vietnam",
+            "flag": "🇻🇳",
+            "flag_url": "https://flagcdn.com/w320/vn.png",
+            "phone_code": "+84"
+        },
+        {
+            "name": "Pakistan",
+            "flag": "🇵🇰",
+            "flag_url": "https://flagcdn.com/w320/pk.png",
+            "phone_code": "+92"
+        },
+        {
+            "name": "Philippines",
+            "flag": "🇵🇭",
+            "flag_url": "https://flagcdn.com/w320/ph.png",
+            "phone_code": "+63"
+        },
+        {
+            "name": "Bangladesh",
+            "flag": "🇧🇩",
+            "flag_url": "https://flagcdn.com/w320/bd.png",
+            "phone_code": "+880"
+        },
+        {
+            "name": "Malaysia",
+            "flag": "🇲🇾",
+            "flag_url": "https://flagcdn.com/w320/my.png",
+            "phone_code": "+60"
+        },
+        {
+            "name": "Colombia",
+            "flag": "🇨🇴",
+            "flag_url": "https://flagcdn.com/w320/co.png",
+            "phone_code": "+57"
+        },
+        {
+            "name": "Peru",
+            "flag": "🇵🇪",
+            "flag_url": "https://flagcdn.com/w320/pe.png",
+            "phone_code": "+51"
+        },
+        {
+            "name": "Chile",
+            "flag": "🇨🇱",
+            "flag_url": "https://flagcdn.com/w320/cl.png",
+            "phone_code": "+56"
+        },
+        {
+            "name": "Venezuela",
+            "flag": "🇻🇪",
+            "flag_url": "https://flagcdn.com/w320/ve.png",
+            "phone_code": "+58"
+        }
+    ]
+}
