@@ -38,7 +38,7 @@ function Phone() {
                 <input
                     ref={inpRef}
                     className="outline-0"
-                    type="text"
+                    type="number"
                     value={phone}
                     onChange={handleInputChange}
                 />
