@@ -5,7 +5,7 @@ import downArrow from '../assets/down.svg';
 function Phone() {
     const [current, setCurrent] = useState(currencies.countries[0]);
     const [open, setOpen] = useState(false);
-    const [phone, setPhone] = useState(current.phone_code);
+    const [phone, setPhone] = useState('');
     const inpRef = useRef();
 
     function handleSelect(currency) {
@@ -17,15 +17,19 @@ function Phone() {
 
     function handleInputChange(e) {
         const input = e.target.value;
-        setPhone(input);
 
-        for (let country of currencies.countries) {
-            if (input.startsWith(country.phone_code)) {
-                setCurrent(country);
-                break;
+        // Bu shartni chatgptsiz stackoverflowdan va yana boshqa saytlardan izlab topdim google orqali
+        if (/^[\d+]*$/.test(input)) {
+            setPhone(input);
+            for (let country of currencies.countries) {
+                if (input.startsWith(country.phone_code)) {
+                    setCurrent(country);
+                    break;
+                }
             }
         }
     }
+
 
 
     return (
@@ -38,9 +42,10 @@ function Phone() {
                 <input
                     ref={inpRef}
                     className="outline-0"
-                    type="number"
+                    type="text"
                     value={phone}
                     onChange={handleInputChange}
+                    placeholder="Enter phone number"
                 />
             </div>
 
@@ -63,5 +68,6 @@ function Phone() {
         </div>
     );
 }
+
 
 export default Phone;
